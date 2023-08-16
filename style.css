@@ -318,7 +318,7 @@ footer nav {
 }
 
 .close-modal-btn:hover{
-  --back-color:var(--text-gray-900) ;
+  --back-color: rgb(46,46,46) ;
 }
 
 .close-modal-btn::before {
@@ -361,7 +361,7 @@ footer nav {
 }
 
 .login-form h2 {
-  color: var(--text-gray-900);
+  color: rgb(46, 46, 46);
   text-align: center;
   margin-top: 0;
 }
@@ -424,6 +424,7 @@ footer nav {
   left: 2px;
  
 }
+
 
 /* >=640px */
 @media (min-width: 640px) {
